@@ -2,7 +2,12 @@
 execution of a file in linux using command
 
 
-
+1.
+```bash
+$ mkdir LC
+$ cd LC
+$ touch test 
+```
 1- what is shebang ?? it is (#!) anything comes after it will be used as interpreter like (sh,bash,zsh,fish)(the interpreter : which is used to excute the bash script)
 2- what is sh ?? sh is the extension we use for shell scripts (interpreter of commands)
 3- what is bash ?? is considered to be a terminal instance which is give you much more streamlined experience when it comes down to using (linux/unix) os4- 
